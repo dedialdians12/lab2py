@@ -10,8 +10,46 @@ Pertama download software python terlebih dahulu di situs resmi (python.org), Di
 ![image](https://user-images.githubusercontent.com/48305171/196461860-98236e1a-49c6-47fe-9d04-a53c461d0bbd.png)
 
 Setelah kalian download, kalian install software tersebut
-Nah disini kalian centang Add python.exe ke PATH agar python bisa di panggil melalui command prompt (cmd), lalu kalian klik Install now
+Nah disini kalian centang Add python.exe ke PATH agar python bisa di panggil melalui command prompt (cmd), lalu kalian klik Install now dan tunggu sampai instalasi selesai
 
 ![image](https://user-images.githubusercontent.com/48305171/196463021-41b74e16-f39f-40be-bb41-4933062cc87d.png)
+
+jika sudah selesai tampilannya akan seperti ini lalu kalian klik close
+
+![image](https://user-images.githubusercontent.com/48305171/196464946-1a9c5d9f-6805-49d8-a6db-d1df8c47751d.png)
+
+setelah itu kalian buka cmd lalu ketikan perintah py untuk membuka python 
+
+![image](https://user-images.githubusercontent.com/48305171/196465432-06767dff-a359-46ed-987c-de31c7632681.png)
+
+![image](https://user-images.githubusercontent.com/48305171/196466603-8f8c2764-1748-45ee-9d08-cbd10426b8da.png)
+
+setelah kalian masuk ke python, yg harus di kerjakan pertama yaitu
+
+Latihan 1 : Menjalankan Python Console
+
+1. Menampilkan tulisan “Hello” dilayar dengan perintah >>>print("Hello")
+2. Menampilkan tulisan “Saya sedang belajar python” dilayar >>>print("Saya sedang belajar python")
+
+![image](https://user-images.githubusercontent.com/48305171/196468616-0e2e92a7-ee65-40a1-9ebb-0e3374df4fef.png)
+
+tampilannya akan seperti ini, maka Latihan 1 sudah selesai lanjut ke Latihan 2
+
+Latihan 2 Menjumlahkan dua buah bilangan menggunakan variabel a dan b.
+• Mendefinisikan variable a dengan nilai 8
+• Mendefinisikan variable b dengan nilai 6
+• Mencetak nilai variable a dan b
+• Mencetak hasil penjumlahan a+b
+(untuk masing masing perintahnya ada di gambar)
+
+![image](https://user-images.githubusercontent.com/48305171/196470661-c0c5e6e1-295e-43e2-9ce2-f2f3382505aa.png)
+
+untuk tampilannya seperti ini, maka Latihan 2 sudah selesai, lanjut ke Latihan 3
+
+Latihan 3 : Menjalankan IDLE
+• Membuat file baru dengan nama latihan3.py (pastikan lokasi file
+pada folder lab2py pada direktori kerja anda)
+• Menggunakan fungsi input untuk mengambil nilai variabel dari
+keyboard.
 
 
