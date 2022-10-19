@@ -80,9 +80,11 @@ jika sudah download lakukan instalasi software tersebut pada komputer lalu klik 
 ![image](https://user-images.githubusercontent.com/48305171/196573943-544e7ebf-a3b9-4183-a26f-2d3ff845bf5b.png)
 
 dan disini di perlukan space storage yg sesuai
+
 ![image](https://user-images.githubusercontent.com/48305171/196574022-e0b9f530-2778-465e-b4da-d6cb6ded1f93.png)
 
 lalu kalian centang beberapa yg di perlukan (saya centang semua karna ingin mencoba semua hehe) lalu klik next
+
 ![image](https://user-images.githubusercontent.com/48305171/196574095-37297897-d268-4784-81b0-7fe44c39c551.png)
 
 tunggu beberapa detik untuk install, jika sudah selesai tampilannya seperti ini kalian bisa pilih reboot now atau reboot later, itu pilihan kalian, disini saya pilih reboot now
