@@ -89,5 +89,6 @@ lalu kalian centang beberapa yg di perlukan (saya centang semua karna ingin menc
 
 tunggu beberapa detik untuk install, jika sudah selesai tampilannya seperti ini kalian bisa pilih reboot now atau reboot later, itu pilihan kalian, disini saya pilih reboot now
 
-![image](https://user-images.githubusercontent.com/48305171/196574820-dfbd69ed-255d-4fee-835e-ce6f4391ecaf.png)
+![image](https://user-images.githubusercontent.com/48305171/196574920-3521a93a-b8b5-49e5-996a-71ca33860498.png)
+
 
