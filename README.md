@@ -91,4 +91,19 @@ tunggu beberapa detik untuk install, jika sudah selesai tampilannya seperti ini 
 
 ![image](https://user-images.githubusercontent.com/48305171/196574920-3521a93a-b8b5-49e5-996a-71ca33860498.png)
 
+jika sudah selesai restart, kalian buka software pycharm lalu klik new, dan tampilannya akan seperti ini, pertama kalian ubah nama file dan penempatan filenya lalu klik create main.py, akan secara otomatis main.py terbuat, setelah itu klik create
 
+![image](https://user-images.githubusercontent.com/48305171/196578959-c4c98c76-df7c-487d-b278-9a7780ad4b70.png)
+
+
+kalian juga bisa menambahkan main.py secara manual dengan cara seperti ini
+
+![image](https://user-images.githubusercontent.com/48305171/196579280-8f056208-1a55-47e5-b896-389e2535c152.png)
+
+selanjutnya jika sudah buat main.py, kalian buat program menghitung luas dan keliling lingkaran dengan jari jari yg sudah di tentukan
+
+![image](https://user-images.githubusercontent.com/48305171/196580002-e619acde-65c6-496a-a680-23a13475188a.png)
+
+jika sudah tampilannya seperti ini ketika di run, dan untuk pycharm selesai
+
+Terimakasih ^^
