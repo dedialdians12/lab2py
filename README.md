@@ -52,4 +52,5 @@ pada folder lab2py pada direktori kerja anda)
 • Menggunakan fungsi input untuk mengambil nilai variabel dari
 keyboard.
 
+![image](https://user-images.githubusercontent.com/48305171/196569724-fc9847bd-faf9-401e-8957-a164cdc94958.png)
 
