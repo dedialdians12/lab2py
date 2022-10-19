@@ -22,8 +22,6 @@ setelah itu kalian buka cmd lalu ketikan perintah py untuk membuka python
 
 ![image](https://user-images.githubusercontent.com/48305171/196465432-06767dff-a359-46ed-987c-de31c7632681.png)
 
-![image](https://user-images.githubusercontent.com/48305171/196466603-8f8c2764-1748-45ee-9d08-cbd10426b8da.png)
-
 setelah kalian masuk ke python, yg harus di kerjakan pertama yaitu
 
 Latihan 1 : Menjalankan Python Console
