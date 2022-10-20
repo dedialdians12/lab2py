@@ -59,10 +59,13 @@ pada folder lab2py pada direktori kerja anda)
 • Menggunakan fungsi input untuk mengambil nilai variabel dari
 keyboard.
 
-![image](https://user-images.githubusercontent.com/48305171/196569724-fc9847bd-faf9-401e-8957-a164cdc94958.png)
+untuk kodenya ada di gambar
 
-baik, untuk perintahnya seperti ini, namun disini saya menambahkan variable hp(hasil penggabungan) ht(hasil) tambah) dan hb (hasil bagi). sama dengan simbolnya + untuk tambah / untuk bagi, dan untuk fungsi float nya sendiri mengembalikan bilangan ke dalam bentuk float (bilangan dengan titik). Jadi fungsi ini akan mengubah argumennya yang berupa bilangan menjadi tipe float atau bilangan desimal, dan untuk variable hp saya tidak menggunakan float karna tujuannya menggabungkan variable a+b. (disini mohon maaf jika ada salah kata atau salah menyebutkan fungsinya)
+![image](https://user-images.githubusercontent.com/48305171/196988646-c80e4a2c-58f4-48c2-9aac-bdf9e98dd551.png)
 
+jika sudah sesuai kodenya kemudian klik run 
+
+![image](https://user-images.githubusercontent.com/48305171/196989452-a8cedaa3-595e-411e-9197-0c78ee916c7d.png)
 
 
 Nah jika tampilannya sudah seperti ini maka maka latihan 3 sudha selesai, sekarang kita lanjut menggunakan pycharm
