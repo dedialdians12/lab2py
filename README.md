@@ -26,11 +26,12 @@ setelah kalian masuk ke python, yg harus di kerjakan pertama yaitu
 
 Latihan 1 : Menjalankan Python Console
 
-1. Menampilkan tulisan “Hello” dilayar dengan perintah >>>print("Hello")
+1. Menampilkan tulisan “Hello”
 
-2. Menampilkan tulisan “Saya sedang belajar python” dilayar >>>print("Saya sedang belajar python")
+2. Menampilkan tulisan “Saya sedang belajar python”
 
 ![image](https://user-images.githubusercontent.com/48305171/196468616-0e2e92a7-ee65-40a1-9ebb-0e3374df4fef.png)
+Saya sedang belajar python")
 
 tampilannya akan seperti ini, maka Latihan 1 sudah selesai lanjut ke Latihan 2
 
